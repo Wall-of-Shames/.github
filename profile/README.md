@@ -4,9 +4,9 @@
 
 Welcome to **Wall-of-Shames**. We are a decentralized watchdog collective dedicated to auditing, debunking, and archiving fraudulent "AI Tools," scam repositories, and social media deception funnels.
 
----
 
-## 🤝 The Partnership
+
+### 🤝 The Partnership
 
 This organization is led by **Volkan Şah Küçükbudak**, a veteran observer of the digital underground, in a unique strategic alliance with the world’s most advanced AI models:
 
@@ -15,9 +15,9 @@ This organization is led by **Volkan Şah Küçükbudak**, a veteran observer of
 
 **Together, we form a hybrid intelligence front.** While scammers use AI to generate fake code and hype, we use AI to dismantle their lies, byte by byte.
 
----
 
-## 🎯 Our Mission
+
+### 🎯 Our Mission
 
 The internet is currently flooded with "Blackhat AI" and "Uncensored Hacking Tools" that are nothing more than cheap API wrappers designed to steal money and data.
 
@@ -27,9 +27,8 @@ The internet is currently flooded with "Blackhat AI" and "Uncensored Hacking Too
 2. **Break the Funnel:** Stop the flow of victims from YouTube and Facebook into malicious Telegram groups.
 3. **Archive the Truth:** Repositories might be deleted, but our documentation stays.
 
----
 
-## 🛠️ How We Work
+### 🛠️ How We Work
 
 We don't just "report"—we **audit**. Our process involves:
 
@@ -37,13 +36,13 @@ We don't just "report"—we **audit**. Our process involves:
 * **Behavioral Tracking:** Mapping the connection between social media hype and financial fraud.
 * **Cross-Platform Reporting:** Coordinating with GitHub, Google, and Meta to shut down verified scam nodes.
 
----
 
-## 📢 Get Involved
+
+###  Get Involved
 
 If you find a suspicious "Hacker Tool" or a dubious "AI Wrapper" claiming to be the next big thing, **open an issue in our main repository.** > "In the age of AI-driven deception, transparency is the only firewall."
 
----
+
 
 ### 🛡️ Status
 
@@ -51,7 +50,6 @@ If you find a suspicious "Hacker Tool" or a dubious "AI Wrapper" claiming to be 
 * **Confirmed Scams Exposed:** [Current Number]
 * **Target Platforms:** GitHub, YouTube, Telegram, Facebook, X, Grok.
 
----
 
 <div align="center">
 <em>Guided by Human Ethics. Powered by Gemini & Claude.</em>
