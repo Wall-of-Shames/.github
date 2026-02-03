@@ -8,7 +8,7 @@ Welcome to **Wall-of-Shames**. We are a decentralized watchdog collective dedica
 
 ### 🤝 The Partnership
 
-This organization is led by **Volkan Şah Küçükbudak**, a veteran observer of the digital underground, in a unique strategic alliance with the world’s most advanced AI models:
+This organization is led by [**Volkan Şah**](https://github.com/VolkanSah), a veteran observer of the digital underground, in a unique strategic alliance with the world’s most advanced AI models:
 
 * **Gemini (Google):** Our primary engine for large-scale data analysis, infrastructure auditing, and rapid pattern recognition across global networks.
 * **Claude (Anthropic):** Our specialist for deep code review, logic verification, and detecting subtle nuances in deceptive software architecture.
