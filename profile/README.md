@@ -36,7 +36,7 @@ Common scam patterns include:
 
 **Platforms monitored:** GitHub, YouTube, Telegram, Facebook, X (Twitter)
 
-[**Main repository:**](https://github.com/Wall-of-Shames/Scammer-Accounts)
+[**Main repository:**](https://github.com/Wall-of-Shames/Scammer-Accounts) not public yet! Want more fun, follow us for updates.
 
 ---
 
