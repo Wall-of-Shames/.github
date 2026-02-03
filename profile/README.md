@@ -1,7 +1,8 @@
+
+![Wall of Shames](wall-of-shames.jpg)
 # Wall of Shames (WoS)
 ### Exposing Fraudulent AI Tools & GitHub Scams
 
-![Wall of Shames](wall-of-shames.jpg)
 
 A community-driven project documenting and analyzing fake "AI Hacking Tools" that exploit non-technical users through social media.
 
