@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Wall-of-Shames (WoS)
+# 🕵️‍♂️ Wall of Shames (WoS)
 
 ### *Exposing Digital Fraud with Human Intelligence & Advanced AI*
 
