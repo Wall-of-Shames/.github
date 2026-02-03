@@ -34,16 +34,16 @@ Common scam patterns include:
 
 **Platforms monitored:** GitHub, YouTube, Telegram, Facebook, X (Twitter)
 
-**Main repository:** [github.com/VolkanSah/Wall-of-Shames](link-here)
+[**Main repository:**](https://github.com/Wall-of-Shames/Scammer-Accounts)
 
 ---
 
 ## Get Involved
 
 Found a suspicious repository? 
-1. Check our [Scam Detection Guide](link)
-2. [Open an issue](link) with technical evidence
-3. Follow our [Submission Template](link)
+1. Check our [Scam Detection Guide](https://github.com/Wall-of-Shames/scammer-analysis-guide)
+2. [Open an issue](https://github.com/Wall-of-Shames/scammer-analysis-guide/issues/new) with technical evidence
+3. Follow our [Submission Template](https://github.com/Wall-of-Shames/scammer-analysis-guide/blob/main/Issue-template-scam-report.md)
 
 **We only accept reports with reproducible proof.**
 
