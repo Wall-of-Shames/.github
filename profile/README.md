@@ -1,56 +1,67 @@
-# 🕵️‍♂️ Wall of Shames (WoS)
+# Wall of Shames (WoS)
+### Exposing Fraudulent AI Tools & GitHub Scams
 
-### *Exposing Digital Fraud with Human Intelligence & Advanced AI*
+A community-driven project documenting and analyzing fake "AI Hacking Tools" that exploit non-technical users through social media.
 
-Welcome to **Wall-of-Shames**. We are a decentralized watchdog collective dedicated to auditing, debunking, and archiving fraudulent "AI Tools," scam repositories, and social media deception funnels.
+---
 
+## About This Project
 
+Led by [**Volkan Şah**](https://github.com/VolkanSah), this organization focuses on **technical verification** of suspicious repositories claiming to be advanced AI tools.
 
-### 🤝 The Partnership
+### Our Approach
 
-This organization is led by [**Volkan Şah**](https://github.com/VolkanSah), a veteran observer of the digital underground, in a unique strategic alliance with the world’s most advanced AI models:
+We combine:
+- **Human expertise** in security and software architecture
+- **AI-assisted analysis** (using Claude for code review, Gemini for data patterns)
+- **Community reports** from developers who spot scams
 
-* **Gemini (Google):** Our primary engine for large-scale data analysis, infrastructure auditing, and rapid pattern recognition across global networks.
-* **Claude (Anthropic):** Our specialist for deep code review, logic verification, and detecting subtle nuances in deceptive software architecture.
+**We don't just report—we document.** Every claim is backed by code evidence.
 
-**Together, we form a hybrid intelligence front.** While scammers use AI to generate fake code and hype, we use AI to dismantle their lies, byte by byte.
+---
 
+## What We Expose
 
+Common scam patterns include:
+- API wrappers pretending to be custom AI models
+- Telegram payment funnels disguised as "premium features"
+- Fake engagement (bought stars, automated forks)
+- Hardcoded API keys and amateur security mistakes
 
-### 🎯 Our Mission
+---
 
-The internet is currently flooded with "Blackhat AI" and "Uncensored Hacking Tools" that are nothing more than cheap API wrappers designed to steal money and data.
+## Current Focus
 
-**We are here to:**
+**Platforms monitored:** GitHub, YouTube, Telegram, Facebook, X (Twitter)
 
-1. **De-mask the "Elite":** Show that your "custom-trained model" is just a 20-line Python script.
-2. **Break the Funnel:** Stop the flow of victims from YouTube and Facebook into malicious Telegram groups.
-3. **Archive the Truth:** Repositories might be deleted, but our documentation stays.
+**Main repository:** [github.com/VolkanSah/Wall-of-Shames](link-here)
 
+---
 
-### 🛠️ How We Work
+## Get Involved
 
-We don't just "report"—we **audit**. Our process involves:
+Found a suspicious repository? 
+1. Check our [Scam Detection Guide](link)
+2. [Open an issue](link) with technical evidence
+3. Follow our [Submission Template](link)
 
-* **Static Code Analysis:** Finding hidden API calls and hardcoded secrets.
-* **Behavioral Tracking:** Mapping the connection between social media hype and financial fraud.
-* **Cross-Platform Reporting:** Coordinating with GitHub, Google, and Meta to shut down verified scam nodes.
+**We only accept reports with reproducible proof.**
 
+---
 
+## Principles
 
-###  Get Involved
+- Focus on **code, not people**
+- Provide **evidence, not accusations**  
+- Respect **fair use and DMCA**
+- No harassment or doxxing
 
-If you find a suspicious "Hacker Tool" or a dubious "AI Wrapper" claiming to be the next big thing, **open an issue in our main repository.** > "In the age of AI-driven deception, transparency is the only firewall."
-
-
-
-### 🛡️ Status
-
-* **Active Cases:** [Current Number]
-* **Confirmed Scams Exposed:** [Current Number]
-* **Target Platforms:** GitHub, YouTube, Telegram, Facebook, X, Grok.
-
+---
 
 <div align="center">
-<em>Guided by Human Ethics. Powered by Gemini & Claude.</em>
+
+*"In the age of AI-driven deception, transparency is the only firewall."*
+
+**Human-led. AI-assisted. Community-driven.**
+
 </div>
