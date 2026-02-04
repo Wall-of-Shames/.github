@@ -1,6 +1,12 @@
 
 ![Wall of Shames](https://raw.githubusercontent.com/Wall-of-Shames/.github/refs/heads/main/profile/wall-of-shames.jpg)
 # Wall of Shames (WoS)
+
+> [!CAUTION]
+> You can scam 50 users once.
+> 
+> You cannot scam 100+ million developers forever. World Wide!
+
 ### Exposing Fraudulent AI Tools & GitHub Scams
 
 
