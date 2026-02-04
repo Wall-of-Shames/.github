@@ -1,5 +1,5 @@
 
-![Wall of Shames](wall-of-shames.jpg)
+![Wall of Shames](https://raw.githubusercontent.com/Wall-of-Shames/.github/refs/heads/main/profile/wall-of-shames.jpg)
 # Wall of Shames (WoS)
 ### Exposing Fraudulent AI Tools & GitHub Scams
 
@@ -47,6 +47,7 @@ Found a suspicious repository?
 1. Check our [Scam Detection Guide](https://github.com/Wall-of-Shames/scammer-analysis-guide)
 2. [Open an issue](https://github.com/Wall-of-Shames/scammer-analysis-guide/issues/new) with technical evidence
 3. Follow our [Submission Template](https://github.com/Wall-of-Shames/scammer-analysis-guide/blob/main/Issue-template-scam-report.md)
+4. [Why "Wall of Shames"?](https://github.com/Wall-of-Shames/.github/blob/main/profile/why-wall-of-shames.md)
 
 **We only accept reports with reproducible proof.**
 
