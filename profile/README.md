@@ -61,6 +61,18 @@ Found a suspicious repository?
 
 ---
 
+🚨 Note on Documentation & Persistence
+
+To prevent scammers from hiding their tracks by deleting repositories or editing deceptive claims after being exposed, the Wall of Shames follows a strict Persistence Protocol:
+
+-  Immutable Forks: We create an immediate fork of every identified scam repository. These forks serve as a permanent "Snapshot of Deception."
+
+- Log Archiving: All admission of guilt, deceptive marketing comments, and technical failures are archived as screenshots and Markdown logs within our private database.
+
+- The "Wall of Shame" Mark: Even if a repository is deleted by the owner or GitHub, the evidence remains public on our platform to inform the community and law enforcement.
+
+"You can delete your repo, but you cannot delete the record of your actions."
+
 <div align="center">
 
 *"In the age of AI-driven deception, transparency is the only firewall."*
