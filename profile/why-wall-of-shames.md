@@ -27,7 +27,7 @@
 
 ---
 
-## 🎯 The Problem We're Solving
+## The Problem We're Solving
 
 ### The Rise of "AI Wrapper" Scams
 
@@ -59,7 +59,7 @@ In 2024-2025, we've witnessed an explosion of fake "AI Hacking Tools" on GitHub.
 
 ---
 
-## 💡 Why This Matters
+## Why This Matters
 
 ### 1. **The Open Source Ecosystem is Under Attack**
 
@@ -235,7 +235,7 @@ Each confirmed scam gets a detailed analysis:
 
 ---
 
-## 👥 Who We Are
+## Who We Are
 
 ### Led by Volkan Şah
 
@@ -291,7 +291,7 @@ We use AI tools **as assistants, not replacements**:
 
 ---
 
-## 🚫 What We're NOT
+## What We're NOT
 
 ### We Are NOT Hackers or Vigilantes
 
@@ -435,7 +435,7 @@ import openai  # Just calling OpenAI!
 
 ---
 
-## 🧠 How AI Assists (But Doesn't Replace) Human Expertise
+## How AI Assists (But Doesn't Replace) Human Expertise
 
 ### Our Human + AI Workflow
 
@@ -534,7 +534,7 @@ Step 5: PUBLICATION (100% Human)
 
 ---
 
-## 📜 Our Principles
+## Our Principles
 
 ### 1. Evidence-Based Documentation
 
@@ -735,7 +735,7 @@ response = api_client.unleashed_ai("Hello!")  # Same OpenAI call!
 
 ---
 
-## 🏆 Success Stories
+## Success Stories
 
 ### Documented Cases Impact
 
@@ -767,7 +767,7 @@ response = api_client.unleashed_ai("Hello!")  # Same OpenAI call!
 
 ---
 
-## ❓ FAQ
+## FAQ
 
 ### "Isn't this just drama / cancel culture?"
 
@@ -867,7 +867,7 @@ We complement official channels, not replace them.
 
 ---
 
-## 🤝 Join the Mission
+## Join the Mission
 
 ### How to Contribute
 
@@ -943,7 +943,7 @@ https://github.com/Wall-of-Shames/scammer-analysis-guide/discussions
 
 ---
 
-## 📞 Contact
+## Contact
 
 **Project Lead:** Volkan Şah
 - GitHub: [@VolkanSah](https://github.com/VolkanSah)
@@ -959,7 +959,7 @@ https://github.com/Wall-of-Shames/scammer-analysis-guide/discussions
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 **This project wouldn't exist without:**
 
