@@ -1009,13 +1009,13 @@ https://github.com/Wall-of-Shames/scammer-analysis-guide/discussions
 This project's documentation, detection scripts, and technical analysis were developed with assistance from **Claude (Anthropic)**.
 
 **Claude's Contribution:**
-- Code review automation and pattern detection
+- Code review automation and pattern detection (not till yet!)
 - Documentation generation and technical writing
 - Analysis workflow optimization
 - Educational content structuring
 
 **Copyright & Attribution:**
-- AI-assisted content: © 2025 Wall of Shames Project
+- AI-assisted content: © 2026 Wall of Shames Project
 - Detection scripts: MIT License
 - Documentation: CC BY-SA 4.0
 - Claude AI by Anthropic: Used under standard API terms
