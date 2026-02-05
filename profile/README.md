@@ -61,7 +61,6 @@ Found a suspicious repository? Please read first, i know is to much but you must
 3. Follow our [Submission Template](https://github.com/Wall-of-Shames/scammer-analysis-guide/blob/main/Issue-template-scam-report.md)
 4. [Why "Wall of Shames"?](https://github.com/Wall-of-Shames/.github/blob/main/profile/why-wall-of-shames.md)
 5. [For Scammers and Newommer to leaarn "What is Open Source and What not"!](https://github.com/Wall-of-Shames/What-is-Open-Source)
-6. [What-is-Open-Source?](https://github.com/Wall-of-Shames/What-is-Open-Source)
 
 **We only accept reports with reproducible proof.**
 
