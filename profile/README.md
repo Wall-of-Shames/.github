@@ -10,7 +10,7 @@
 ### Exposing Fraudulent AI Tools & GitHub Scams
 
 
-A community-driven project documenting and analyzing fake "AI Hacking Tools" and other Scam (Thnks to the AI!) that exploit non-technical users through social media.
+A community-driven project documenting and analyzing fake "AI Hacking Tools" and other Scam (Tanks to the AI!) that exploit non-technical users through social media.
 
 ---
 
