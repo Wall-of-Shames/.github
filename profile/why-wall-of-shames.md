@@ -1029,6 +1029,6 @@ All AI-generated content is verified, edited, and approved by human contributors
 
 ---
 
-*Last updated: February 2025*  
-*Version: 1.0*  
+*Last updated: February 2026*  by Volkan Sah
+*Version: 1.1*  
 *License: CC BY-SA 4.0 (Documentation), MIT (Code)*
