@@ -948,6 +948,7 @@ https://github.com/Wall-of-Shames/scammer-analysis-guide/discussions
 **Project Lead:** Volkan Şah
 - GitHub: [@VolkanSah](https://github.com/VolkanSah)
 - Organization: [Wall of Shames](https://github.com/Wall-of-Shames)
+- Mail: NemesisCyberForce//proton.me
 
 **Community:**
 - **Discussions:** [GitHub Discussions](https://github.com/Wall-of-Shames/scammer-analysis-guide/discussions)
