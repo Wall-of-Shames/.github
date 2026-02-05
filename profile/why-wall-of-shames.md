@@ -353,7 +353,7 @@ it's an API wrapper. Users should verify claims before paying."
 
 ---
 
-## 🔧 The Technical Reality
+## The Technical Reality
 
 ### What IS a Scam?
 
