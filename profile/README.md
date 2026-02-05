@@ -10,16 +10,16 @@
 ### Exposing Fraudulent AI Tools & GitHub Scams
 
 
-A community-driven project documenting and analyzing fake "AI Hacking Tools" and other Scam (Tanks to the AI!) that exploit non-technical users through social media.
+A community-driven project documenting and analyzing fake "AI Hacking Tools" and other Scam (**Tanks to the AI !**) that exploit non-technical (young) users through social media.
 
 ---
 
 ## About This Project
 
 Led by [**Volkan Şah**](https://github.com/VolkanSah) for //NCF, this organization focuses on **technical verification** of suspicious repositories claiming to be advanced AI tools. 
-> Folks: Happy birthday to our Leader and Mentor, its his Birthday present from him to us. He get old
+> Folks: Happy birthday to our leader and mentor, its his birthday and a present from him to us! WTF . He get old! 😄
 > 
-> Leader: Ok i write it in the Readme.md its ok? Shut up! Text ... 
+> Leader: Ok i write it in our README.md! its ok? Shut up! Text pls... 
 
 ### Our Approach
 
@@ -41,28 +41,30 @@ Common scam patterns include:
 - Hardcoded API keys and amateur security mistakes
 - Fake/Scam Content on World Wide Web advertist on Meta Universum hostet on Github with stoolen code to
 
-> Why? We have a deal with Google and Glaude, and Deepseek, and OpenAi. The deal is stay clean and heal the world! You check it ? DON`T SCAM!!!!
+> Why? We have a deal with Google and Claude, and Deepseek, and OpenAi. "The deal is stay clean and heal the world ! You check it ?
+> ? DON`T SCAM !!!!
 
 ---
 
 ## Current Focus
 
-**Platforms monitored:** GitHub, YouTube, Telegram, Facebook, X (Twitter), Instagram
+**Platforms monitored:** GitHub, Gitlab, YouTube, Telegram, Facebook, X (Twitter), Instagram
 
-[**Main repository:**](https://github.com/Wall-of-Shames/Scammer-Accounts) not public yet! Want more fun, follow us for updates. Wait for German Law!
+[**Main repository:**](https://github.com/Wall-of-Shames/Scammer-Accounts) (not public yet! Want more fun, follow us for updates - Wait for German Law!)
 
 ---
 
 ## Get Involved
 
-Found a suspicious repository? Please read first, i know is to much but you must! - you will love what you leran ❤️
+**Found a suspicious repository?**
+> Please read first, we know is tooooo much but you must! - you will love what you learn ❤️ real!
 1. Check our [Scam Detection Guide](https://github.com/Wall-of-Shames/scammer-analysis-guide)
 2. [Open an issue](https://github.com/Wall-of-Shames/scammer-analysis-guide/issues/new) with technical evidence
 3. Follow our [Submission Template](https://github.com/Wall-of-Shames/scammer-analysis-guide/blob/main/Issue-template-scam-report.md)
 4. [Why "Wall of Shames"?](https://github.com/Wall-of-Shames/.github/blob/main/profile/why-wall-of-shames.md)
-5. [For Scammers and Newommer to leaarn "What is Open Source and What not"!](https://github.com/Wall-of-Shames/What-is-Open-Source)
+5. [For Scammers & Newcommer:  to leaarn "What is Open Source" and "What not"!](https://github.com/Wall-of-Shames/What-is-Open-Source)
 
-**We only accept reports with reproducible proof.**
+Note: **We only accept reports with reproducible proof!** Or if the boss is hunting on "Ceramics department" 😆
 
 ---
 
@@ -83,15 +85,11 @@ Found a suspicious repository? Please read first, i know is to much but you must
 🚨 Note on Documentation & Persistence
 
 To prevent scammers from hiding their tracks by deleting repositories or editing deceptive claims after being exposed, the Wall of Shames follows a strict Persistence Protocol:
-
 -  Immutable Forks: We create an immediate fork of every identified scam repository. These forks serve as a permanent "Snapshot of Deception."
-
 - Log Archiving: All admission of guilt, deceptive marketing comments, and technical failures are archived as screenshots and Markdown logs within our private database.
-
 - The "Wall of Shame" Mark: Even if a repository is deleted by the owner or GitHub, the evidence remains public on our platform to inform the community and law enforcement.
 
 "You can delete your repo, but you cannot delete the record of your actions."
-
 <div align="center">
 
 *"In the age of AI-driven deception, transparency is the only firewall."*
@@ -99,3 +97,4 @@ To prevent scammers from hiding their tracks by deleting repositories or editing
 **Human-led. AI-assisted. Community-driven.**
 
 </div>
+> export from //NCF for WoS - updated, fixed on 05.02.2026 by VolkanSah @22:41MEZ
