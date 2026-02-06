@@ -16,7 +16,7 @@ A community-driven project documenting and analyzing fake "AI Hacking Tools" and
 
 ## About This Project
 
-Led by [**Volkan Şah**](https://github.com/VolkanSah) for //NCF, this organization focuses on **technical verification** of suspicious repositories claiming to be advanced AI tools. 
+Led by [**Volkan Şah**](https://github.com/VolkanSah) & [**BadTin**](https://github.com/BadTin) [ for //NCF, this organization focuses on **technical verification** of suspicious repositories claiming to be advanced AI tools. 
 > Folks: Happy birthday to our leader and mentor, its his birthday and a present from him to us! WTF . He get old! 😄
 > 
 > Leader: Ok i write it in our README.md! its ok? Shut up! Text pls... 
