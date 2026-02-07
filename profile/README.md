@@ -170,13 +170,43 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 
 **For legitimate inquiries:**
 - Legal requests: Through proper legal channels
-- Community contribution: See [CONTRIBUTING.md](CONTRIBUTING.md)
 - Security concerns: See [SECURITY.md](SECURITY.md)
+
+
+- 
+## Community
+
+- **Discussions:** Global [GitHub Discussions](https://github.com/orgs/Wall-of-Shames/discussions)
+- **Report a Scam:** [Open an Issue](../../issues/new)
+- **Discussions:** Scam [Scammer Analysis Guide -Discussions](https://github.com/Wall-of-Shames/scammer-analysis-guide/discussions)
+- **Security Concerns:** minigrex@proton.me
+
+---
 
 **For scammers:**
 - Your site is archived ✅
 - Your violations are documented ✅
 - Your lies won't work here ✅
+
+---
+
+## Roadmap
+
+- [x] Initial documentation framework
+- [ ] Automated scam detection bot
+- [ ] Browser extension for real-time warnings
+- [x] Integration with GitHub's abuse API
+- [ ] Multi-language support (Spanish, Portuguese, Russian)
+- [ ] Victim support resources
+- [x] Monthly scam trend reports (CVE Style)
+
+---
+
+## Community
+
+- **Discussions:** [GitHub Discussions](../../discussions)
+- **Report a Scam:** [Open an Issue](../../issues/new)
+- **Security Concerns:** security@[project-domain].com
 
 ---
 
