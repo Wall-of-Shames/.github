@@ -197,7 +197,7 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 - [ ] Browser extension for real-time warnings
 - [x] Integration with GitHub's abuse API
 - [ ] Multi-language support (Spanish, Portuguese, Russian)
-- [ ] Victim support resources
+- [x] Victim support resources
 - [x] Monthly scam trend reports (CVE Style)
 
 ---
@@ -214,5 +214,7 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 
 **Wall of Shames © 2025-2026 NCF**  
 *Licensed under [ESOL v1.1](LICENSE) - Ethical Security Operations License*
+- Code under MIT + ESOL
+- Docs under C4
 
 ---
