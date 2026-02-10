@@ -210,11 +210,8 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 
 ---
 
-*Last updated: 06.02.2026 20:20 MEZ by VolkanSah*
+*Last updated: 10.02.2026 16.42 MEZ by VolkanSah*
 
-**Wall of Shames © 2025-2026 NCF**  
-*Licensed under [ESOL v1.1](LICENSE) - Ethical Security Operations License*
-- Code under MIT + ESOL
-- Docs under C4
+##### **Wall of Shames © 2025-2026 by NCF & SDCPT** (Lead VolkanSah)
+*Licensed under CC BY-SA 4.0 (Documentation), [MIT](MIT) (Code) + [ESOL v1.1](ESOL) - Ethical Security Operations License*
 
----
