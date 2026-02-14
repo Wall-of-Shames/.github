@@ -82,6 +82,7 @@ This organization focuses on **technical verification** of suspicious repositori
 </details> 
 
 ---
+
 <details> 
 <summary>Current Focus</summary>
    
@@ -95,9 +96,12 @@ This organization focuses on **technical verification** of suspicious repositori
 
 ---
 
-## 🤝 Get Involved
+<details> 
+<summary>🤝 Get Involved</summary>
 
-**Found a suspicious repository?**
+#### **Found a suspicious repository?**
+
+
 
 > Please read first—we know it's a lot, but you must! You'll love what you learn ❤️ for real!
 
@@ -114,6 +118,8 @@ This organization focuses on **technical verification** of suspicious repositori
 
 **Note:** We only accept reports with **reproducible proof!** (Or if the boss is hunting from the "Ceramics Department" 😆)
 
+</details> 
+
 ---
 
 ## Principles
@@ -124,11 +130,18 @@ This organization focuses on **technical verification** of suspicious repositori
 > - Respect **fair use and DMCA**
 > - **No harassment or doxxing**
 
+
+
 ---
 
-## 🚨 Documentation & Persistence Protocol
 
-To prevent scammers from hiding their tracks by deleting repositories or editing deceptive claims after being exposed, Wall of Shames follows a **strict Persistence Protocol:**
+<details> 
+<summary>🚨 Documentation & Persistence Protocol</summary>
+
+
+#### To prevent scammers ...
+
+... from hiding their tracks by deleting repositories or editing deceptive claims after being exposed, Wall of Shames follows a **strict Persistence Protocol:**
 
 ### Evidence Preservation:
 - 📸 **Immutable Forks:** We create immediate forks of every identified scam repository as permanent "Snapshots of Deception"
@@ -145,22 +158,19 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 - Prevent repeat offenses
 - Protect future victims
 
----
-
-## Export & Accountability Notice
-
-> **Export from NCF for Wall of Shames**  
-> **Initial Export:** 05.02.2026 22:41 MEZ by VolkanSah  
-> **Last Verification:** 06.02.2026 20:20 MEZ by VolkanSah  
-> **Status:** ✅ Verified, Archived, Legally Documented
+</details> 
 
 ---
 
-## ⚖️ Legal Standing & Accountability
 
-**Project Lead:** Volkan Sah (NCF)  
-**Jurisdiction:** German Law (primary), US Law (applicable)  
-**Personal Responsibility:** I stand behind every word in these repositories. I will not expose my Team! [Read this zhan you know why](export-repo-6-16.please)
+
+<details> 
+<summary>⚖️ Legal Standing & Accountability</summary>
+
+#### Project Lead
+- **Project Leader:** Volkan Sah (NCF)  
+- **Jurisdiction:** German Law (primary), US Law (applicable)  
+- **Personal Responsibility:** I stand behind every word in these repositories. I will not expose my Team! [Read this zhan you know why](export-repo-6-16.please)
 
 ### Protection Policy:
 - ✅ Contributors protected (no exposure without consent)
@@ -173,6 +183,19 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 - **Timestamps verified**
 - **Chain of custody maintained**
 - **Available for legal review upon legitimate request**
+
+---
+
+## Export & Accountability Notice
+
+> **Export from NCF for Wall of Shames**  
+> **Initial Export:** 05.02.2026 22:41 MEZ by VolkanSah  
+> **Last Verification:** 06.02.2026 20:20 MEZ by VolkanSah  
+> **Status:** ✅ Verified, Archived, Legally Documented
+
+---
+
+
 
 ### Challenge Policy:
 
@@ -187,32 +210,19 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 - Takedown requests: Must provide legal basis and counter-evidence
 - False claims: Will be documented and published
 
----
-
-<div align="center">
-
-*"In the age of AI-driven deception, transparency is the only firewall."*
-
-**Human-led. AI-assisted. Community-driven.**
+</details> 
 
 ---
 
-**This project operates with integrity, within the law, for the community.**
+<details> 
+<summary>📞 Contact & Legal</summary>
 
-*Every word verified. Every claim documented. Every archive secured.*
 
-</div>
-
----
-
-## 📞 Contact & Legal
-
-**For legitimate inquiries:**
+#### **For legitimate inquiries:**
 - Legal requests: Through proper legal channels
 - Security concerns: See [SECURITY.md](SECURITY.md)
 
 
-- 
 ## Community
 
 - **Discussions:** Global [GitHub Discussions](https://github.com/orgs/Wall-of-Shames/discussions)
@@ -227,9 +237,15 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 - Your violations are documented ✅
 - Your lies won't work here ✅
 
+</details> 
+
+
 ---
 
-## Roadmap
+<details> 
+<summary>Roadmap</summary>
+
+#### Project Roadmap
 
 - [x] Initial documentation framework
 - [ ] Automated scam detection bot
@@ -239,9 +255,13 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 - [x] Victim support resources
 - [x] Monthly scam trend reports (CVE Style)
 
+
+</details> 
+
+
 ---
 
-## Community
+### Community
 
 - **Discussions:** [GitHub Discussions](../../discussions)
 - **Report a Scam:** [Open an Issue](../../issues/new)
@@ -253,4 +273,22 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 
 ##### **Wall of Shames © 2025-2026 by NCF & SDCPT** (Lead VolkanSah)
 *Licensed under CC BY-SA 4.0 (Documentation), [MIT](MIT) (Code) + [ESOL v1.1](ESOL) - Ethical Security Operations License*
+
+
+
+
+
+<div align="center">
+
+*"In the age of AI-driven deception, transparency is the only firewall."*
+
+**Human-led. AI-assisted. Community-driven.**
+
+---
+
+**This project operates with integrity, within the law, for the community.**
+
+*Every word verified. Every claim documented. Every archive secured.*
+
+</div>
 
