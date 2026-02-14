@@ -263,32 +263,25 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 
 ### Community
 
+**This project operates with integrity, within the law, for the community.**
+
 - **Discussions:** [GitHub Discussions](../../discussions)
 - **Report a Scam:** [Open an Issue](../../issues/new)
 - **Security Concerns:** security@[project-domain].com
 
 ---
 
-*Last updated: 10.02.2026 16.42 MEZ by VolkanSah*
-
-##### **Wall of Shames © 2025-2026 by NCF & SDCPT** (Lead VolkanSah)
-*Licensed under CC BY-SA 4.0 (Documentation), [MIT](MIT) (Code) + [ESOL v1.1](ESOL) - Ethical Security Operations License*
 
 
-
-
-
-<div align="center">
-
-*"In the age of AI-driven deception, transparency is the only firewall."*
-
-**Human-led. AI-assisted. Community-driven.**
+*Last updated: 14.02.2026 15.37 MEZ by VolkanSah*
 
 ---
 
-**This project operates with integrity, within the law, for the community.**
+##### **Wall of Shames © 2024-2026 by NCF & SDCPT**
+*Licensed under CC BY-SA 4.0 (Documentation), [MIT](MIT) (Code) + [ESOL v1.1](ESOL) - Ethical Security Operations License*
+> *Every word verified. Every claim documented. Every archive secured.*
 
-*Every word verified. Every claim documented. Every archive secured.*
 
-</div>
+
+
 
