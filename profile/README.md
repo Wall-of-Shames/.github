@@ -1,6 +1,28 @@
-![Wall of Shames](https://raw.githubusercontent.com/Wall-of-Shames/.github/refs/heads/main/profile/wall-of-shames.jpg)
+<!-- Wall-of-Shames · .github/profile/README.md -->
 
 # Wall of Shames (WoS)
+#### **Exposing Fraudulent AI Tools & GitHub/Gitlab Scams**
+
+> A community-driven project documenting and analyzing fake "AI Hacking Tools" and scams (thanks to AI assistance!)
+> that exploit non-technical and young users through social media.
+
+
+[![Apache 2.0](https://img.shields.io/badge/Base-Apache%202.0-blue?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
+[![ESOL v1.1](https://img.shields.io/badge/License-ESOL%20v1.1-red?style=flat-square)](https://github.com/ESOL-License/ESOL)
+[![WoS](https://img.shields.io/badge/Allied-Codey%20of%20LAB-darkred?style=flat-square)](https://github.com/codey-lab)
+
+
+
+
+  
+
+
+---
+
+
+
+
+![Wall of Shames](https://raw.githubusercontent.com/Wall-of-Shames/.github/refs/heads/main/profile/wall-of-shames.jpg)
 
 > [!CAUTION]
 > You can scam 50 users once.
@@ -13,29 +35,40 @@ A community-driven project documenting and analyzing fake "AI Hacking Tools" and
 
 ---
 
-## 📋 About This Project
 
-**Led by:** [Volkan Şah](https://github.com/VolkanSah) & [BadTin](https://github.com/BadTin) for NCF
+
+<details> 
+<summary>About This Project</summary>
+
+#### **Led by:** [Volkan Şah](https://github.com/VolkanSah) & [BadTin](https://github.com/BadTin) for NCF
 
 This organization focuses on **technical verification** of suspicious repositories claiming to be advanced AI tools.
 
 > **Team Note:** Happy birthday to our leader and mentor! A present from him to us on his birthday. WTF, he's getting old! 😄  
 > **Leader:** OK, I'll write it in the README! Text, please... Shut up! 😄
 
-### Our Approach
+</details> 
 
-We combine:
+---
+
+<details> 
+<summary>Our Approach</summary>
+   
+#### We combine:
 - 🔍 **Human expertise** in security and software architecture
 - 🤖 **AI-assisted analysis** (Claude for code review, Gemini for data patterns)
 - 👥 **Community reports** from developers who spot scams
 
 **We don't just report—we document.** Every claim is backed by code evidence.
 
+</details> 
+
 ---
 
-## 🎯 What We Expose
-
-Common scam patterns include:
+<details> 
+<summary>What We Expose</summary>
+   
+#### Common scam patterns include:
 - 🎭 API wrappers pretending to be custom AI models
 - 💰 Telegram payment funnels disguised as "premium features"
 - ⭐ Fake engagement (bought stars, automated forks)
@@ -46,13 +79,19 @@ Common scam patterns include:
 > **The deal is simple:** Stay clean and help heal the internet.  
 > **Bottom line:** DON'T SCAM!
 
+</details> 
+
 ---
-
-## 🔎 Current Focus
-
-**Platforms monitored:** GitHub, GitLab, YouTube, Telegram, Facebook, X (Twitter), Instagram
+<details> 
+<summary>Current Focus</summary>
+   
+#### **Platforms monitored:**
+-  GitHub, GitLab, YouTube, Telegram, Facebook, X (Twitter), Instagram
 
 **Main repository:** [Scammer Accounts](https://github.com/Wall-of-Shames/Scammer-Accounts) *(Not public yet! Follow us for updates - awaiting German law compliance)*
+
+
+</details> 
 
 ---
 
@@ -77,7 +116,7 @@ Common scam patterns include:
 
 ---
 
-## ⚖️ Principles
+## Principles
 
 > [!IMPORTANT]
 > - Focus on **code, not people**
@@ -108,7 +147,7 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 
 ---
 
-## 📋 Export & Accountability Notice
+## Export & Accountability Notice
 
 > **Export from NCF for Wall of Shames**  
 > **Initial Export:** 05.02.2026 22:41 MEZ by VolkanSah  
