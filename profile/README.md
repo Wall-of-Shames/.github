@@ -9,7 +9,7 @@
 
 [![Apache 2.0](https://img.shields.io/badge/Base-Apache%202.0-blue?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 [![ESOL v1.1](https://img.shields.io/badge/License-ESOL%20v1.1-red?style=flat-square)](https://github.com/ESOL-License/ESOL)
-[![WoS](https://img.shields.io/badge/Allied-Codey%20of%20LAB-darkred?style=flat-square)](https://github.com/codey-lab)
+[![WoS](https://img.shields.io/badge/Allied-Codey-LAB-darkred?style=flat-square)](https://github.com/codey-lab)
 
 
 
