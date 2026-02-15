@@ -107,7 +107,7 @@ This organization focuses on **technical verification** of suspicious repositori
 4. ❓ [Why "Wall of Shames"?](https://github.com/Wall-of-Shames/.github/blob/main/profile/why-wall-of-shames.md)
 5. 📚 [For Scammers & Newcomers: Learn "What IS Open Source" and "What is NOT"](https://github.com/Wall-of-Shames/What-is-Open-Source)
 6. 🛠️ Tool for the Lazy Ones 😄 - **Quick Repo Check** on HuggingFace (Open Source, Free, No Payments!):
-   - [Check Your Code Here (Git-Check@HF)](https://huggingface.co/spaces/Wall-of-Shames/Check-Git)
+   - [Check Your Code Here (Git-Check@HF)](https://wall-of-shames-check-git.hf.space)
    - [What's the Magic? (Readme@HF)](https://huggingface.co/spaces/Wall-of-Shames/Check-Git/blob/main/README.md)
    - [Source Code (GitHub)](https://github.com/VolkanSah/Check-Git-ML-Repo-Analyzer/)
 7. 🎬 [Hollywood Lies! There Are No "Hackers" in the World!](https://github.com/Wall-of-Shames/.github/blob/main/profile/Real-Cybersecurity-vs-Hollywood-Bullshit.md) - Read this! A gift to destroy your dreams!
