@@ -216,15 +216,16 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 
 #### **For legitimate inquiries:**
 - Legal requests: Through proper legal channels
-- Security concerns: See [SECURITY.md](SECURITY.md)
+-  Security concerns: See [SECURITY.md](SECURITY.md)
+- **Security Concerns:** minigrex@proton.me
 
 
 ## Community
 
 - **Discussions:** Global [GitHub Discussions](https://github.com/orgs/Wall-of-Shames/discussions)
-- **Report a Scam:** [Open an Issue](../../issues/new)
+- **Report a Scam:** [Open an Issue](https://github.com/Wall-of-Shames/scammer-analysis-guide/issues/new)
 - **Discussions:** Scam [Scammer Analysis Guide -Discussions](https://github.com/Wall-of-Shames/scammer-analysis-guide/discussions)
-- **Security Concerns:** minigrex@proton.me
+- Security:  NemesisCyberForce@proton.me
 
 ---
 
