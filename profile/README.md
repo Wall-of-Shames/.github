@@ -255,12 +255,12 @@ Even if a repository is deleted by the owner or GitHub, the evidence remains acc
 #### Project Roadmap
 
 - [x] Initial documentation framework
-- [ ] Automated scam detection bot
+- [x] Automated scam detection bot
 - [ ] Browser extension for real-time warnings
 - [x] Integration with GitHub's abuse API
 - [ ] Multi-language support (Spanish, Portuguese, Russian)
 - [x] Victim support resources
-- [x] Monthly scam trend reports (CVE Style)
+- [ ] Monthly scam trend reports (CVE Style)
 
 
 </details> 
