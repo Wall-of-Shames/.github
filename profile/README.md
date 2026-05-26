@@ -95,6 +95,14 @@ This organization focuses on **technical verification** of suspicious repositori
 <details> 
 <summary>🤝 Get Involved</summary>
 
+
+
+> [!CAUTION]
+> DO NOT DOWNLOAD OR EXECUTE ANY CODE FROM THIS ORGANIZATION!
+> Everything hosted here is an automated fork of active malware campaigns, phishing scams, and threat-actor repositories (e.g., Fake WormGPT, DarkGPT, Uncensored LLMs).
+> **These repositories contain live, malicious payloads designed to steal credentials and compromise systems.**
+
+
 #### **Found a suspicious repository?**
 
 
