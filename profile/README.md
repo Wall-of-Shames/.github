@@ -10,6 +10,11 @@
 [![Apache 2.0](https://img.shields.io/badge/Base-Apache%202.0-blue?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 [![ESOL v1.1](https://img.shields.io/badge/License-ESOL%20v1.1-red?style=flat-square)](https://github.com/ESOL-License/ESOL)
 
+> [!CAUTION]
+> DO NOT DOWNLOAD OR EXECUTE ANY CODE FROM THIS ORGANIZATION!
+> Everything hosted here is an automated fork of active malware campaigns, phishing scams, and threat-actor repositories (e.g., Fake WormGPT, DarkGPT, Uncensored LLMs).
+> **These repositories contain live, malicious payloads designed to steal credentials and compromise systems.**
+
 
 ---
 
@@ -97,10 +102,7 @@ This organization focuses on **technical verification** of suspicious repositori
 
 
 
-> [!CAUTION]
-> DO NOT DOWNLOAD OR EXECUTE ANY CODE FROM THIS ORGANIZATION!
-> Everything hosted here is an automated fork of active malware campaigns, phishing scams, and threat-actor repositories (e.g., Fake WormGPT, DarkGPT, Uncensored LLMs).
-> **These repositories contain live, malicious payloads designed to steal credentials and compromise systems.**
+
 
 
 #### **Found a suspicious repository?**
